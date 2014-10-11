@@ -1,0 +1,1 @@
+function test(a){console.log(a)}function another(){return"hi"}function function_name(){return"other"}
